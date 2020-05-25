@@ -1,1 +1,1 @@
-# Streaming Stocks With AWS Kinesis and Lambda
+# Streaming Stocks With AWS Kinesis&Lambda
